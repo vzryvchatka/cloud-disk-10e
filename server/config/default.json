@@ -1,5 +1,0 @@
-{
-  "serverPort": 5000,
-  "dbUrl": "mongodb+srv://cloud-disk:cloud-disk@cluster0.p2p9l7g.mongodb.net/?retryWrites=true&w=majority",
-  "secretKey": "mern-secret-key"
-}
