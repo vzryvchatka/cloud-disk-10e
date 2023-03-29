@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Goodboy2007r/cloud-disk/tree/master/static/css/main.f2ad92b5.css",
+    "main.js": "/Goodboy2007r/cloud-disk/tree/master/static/js/main.2440129e.js",
+    "static/media/navbar-logo.svg": "/Goodboy2007r/cloud-disk/tree/master/static/media/navbar-logo.6e7450e09c0f6be14f9f746ac8347808.svg",
+    "index.html": "/Goodboy2007r/cloud-disk/tree/master/index.html",
+    "main.f2ad92b5.css.map": "/Goodboy2007r/cloud-disk/tree/master/static/css/main.f2ad92b5.css.map",
+    "main.2440129e.js.map": "/Goodboy2007r/cloud-disk/tree/master/static/js/main.2440129e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ad92b5.css",
+    "static/js/main.2440129e.js"
+  ]
+}

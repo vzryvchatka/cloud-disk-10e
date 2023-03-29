@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://vzryvshatka:@cluster0.memmkqn.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\Ilyas\\Documents\\cloud-disk-10e\\server\\files"
+}
